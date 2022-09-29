@@ -8,7 +8,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Tests.SignInTest"/>
-     <!-- <class name="Tests.AddressesTest"></class> -->
+      <class name="Tests.AddressesTest"></class> 
       
      
     </classes>
